@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 # Developed under python 2.6
+#
+# Licensed under the MIT license:
+#   http://www.opensource.org/licenses/mit-license.php
 
 import sys
 import os

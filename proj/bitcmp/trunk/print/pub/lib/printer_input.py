@@ -5,6 +5,10 @@ for a run of cards.
 The primary reason for breaking this out as a seperate class
 is that going forward, may wish to use the same class to write
 config files or be able to make programatic mods and so forth.
+#
+# Licensed under the MIT license:
+#   http://www.opensource.org/licenses/mit-license.php
+#
 """
 
 import sys
