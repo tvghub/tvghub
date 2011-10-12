@@ -13,8 +13,8 @@ campaign: test
 
     # file in the 'media' dir, or None in which case it will created
     #  and given a color which is in code.
-#base_card: None
-base_card: wwp_2.png
+base_card: None
+#base_card: wwp_2.png
 
     # will by system dependant.
 font_path: /usr/local/share/fonts/TrueType/bkai00mp.ttf
