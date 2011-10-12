@@ -1,0 +1,48 @@
+#
+# This is a yaml file.  Comments with # signs are generally OK.
+#
+
+    # no-space strint which will be used for output file nameing.
+    # 'None' means that the code will use this file's name to last '.'.
+#run_name : somethinglike_1-100
+run_name : None
+
+    # Will form URL as {url_com}/{campaign}/{hdat-element}
+url_dom : http://bitcmp.org
+campaign: test
+
+    # file in the 'media' dir, or None in which case it will created
+    #  and given a color which is in code.
+#base_card: None
+base_card: wwp_2.png
+
+    # will by system dependant.
+font_path: /usr/local/share/fonts/TrueType/bkai00mp.ttf
+
+    # The code has a soft limit of number of sheets to print
+    #  which can be overridden here, but also a hard limit
+    #  of something like 10 sheets to avoid a run-away.
+soft_lim_sheets: 4
+
+hdat:
+    - bird-rock
+    - bit-flag
+    - get-ham
+    - piss-ant
+    - vip-dork
+    - pain-ass
+    - wing-nut
+    - zero-fill
+    - damn-zirp
+    - ten-item
+    - lamb-clip
+    - trip-log
+    - the-dude
+    - wall-tick
+    - xray-cup
+    - beer-can
+    - ask-rip
+    - pack-rat
+    - silk-road
+    #- very-last
+
